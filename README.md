@@ -2,11 +2,7 @@
 
 Sean Verba
 
-## INSERT URL TO PROJECT
-## INSERT URL TO PROJECT
-## INSERT URL TO PROJECT
-## INSERT URL TO PROJECT
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://seanhub-13.github.io/art-jam/)
 
 ## Description
 
@@ -15,7 +11,8 @@ This is a small game where the user can click on cans of "Art Jam" (paint), in o
 ## Credits
 
 This project uses [p5.js](https://p5js.org).
+Project also uses the [Press Start 2P font](https://fonts.google.com/specimen/Press+Start+2P).
 
 ## Attribution
 
-All assets sourced by me.
+All visual assets sourced by me and audio assets by my friend Andrew Heo.
